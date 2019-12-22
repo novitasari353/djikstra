@@ -11,3 +11,4 @@ dalam hal ini adalah algoritma djikstra
 - novitasari - sari.novita9911@gmail.com
 
 ### project link
+https://github.com/novitasari353/djikstra/blob/master/djikstra.py 
